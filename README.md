@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Subby575/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subby575/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Subby575/-CrackYourInternship/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Subby575/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## String
 |  |
 | ------- |
