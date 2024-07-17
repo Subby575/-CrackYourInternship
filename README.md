@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subby575/-CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Subby575/-CrackYourInternship/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Subby575/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Subby575/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subby575/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Subby575/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Subby575/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Subby575/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
