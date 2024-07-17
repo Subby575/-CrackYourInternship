@@ -11,6 +11,7 @@ int majorityElement(int* nums, int numsSize) {
             }
         } else if (nums[elem] != nums[i]) {
             elem = i;
+            count=1;
         }
     }
     return NULL;
