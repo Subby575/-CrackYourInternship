@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Subby575/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Subby575/-CrackYourInternship/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
