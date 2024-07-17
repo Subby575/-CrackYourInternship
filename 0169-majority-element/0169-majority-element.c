@@ -1,18 +1,15 @@
-int compare(const void* a, const void* b) { return (*(int*)a - *(int*)b); }
 int majorityElement(int* nums, int numsSize) {
-    int count = 0, elem = 0;
+    
+    //iniciate variables
+    int count = 0;
+    int candidate = 0;
 
-    qsort(nums, numsSize, sizeof(int), compare);
-    for (int i = 0; i < numsSize; i++) {
-        if (nums[elem] == nums[i]) {
-            count++;
-            if (count == ((numsSize / 2) + 1)) {
-                return nums[elem];
-            }
-        } else if (nums[elem] != nums[i]) {
-            elem = i;
-            count=1;
+    //let's chcek every position
+    for(int i = 0; i < numsSize; i++){
+        if(count == 0){
+            candidate = nums[i];
         }
+        count += (nums[i] == candidate) ? 1 : -1;
     }
-    return NULL;
+    return candidate;
 }
