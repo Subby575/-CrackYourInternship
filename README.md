@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Subby575/-CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subby575/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Subby575/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Subby575/-CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Subby575/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
