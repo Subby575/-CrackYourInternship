@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Subby575/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subby575/-CrackYourInternship/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Subby575/-CrackYourInternship/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Subby575/-CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Subby575/-CrackYourInternship/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subby575/-CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Subby575/-CrackYourInternship/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subby575/-CrackYourInternship/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Subby575/-CrackYourInternship/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
